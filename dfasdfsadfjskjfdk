@@ -1,0 +1,570 @@
+commit eba9b127239b4da823514e3c5d9b58dc63a86c18
+Merge: 613c75c c14d939
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 12:09:44 2011 +0800
+
+    YEY NAG MERGE
+
+commit c14d9393661ae1b9115cf2bfcaf41e6823e2fc40
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 12:06:36 2011 +0800
+
+    merge attempt
+
+commit 613c75ca7e84c1e979edf73344eea1cdfc8b863a
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 12:00:49 2011 +0800
+
+    nanana
+
+commit 75f554488ed00b1b1b2fbeeace869423fa19a24a
+Merge: aef1dea a681da1
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:59:23 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit aef1dea929d55e4f1d88999b1ff22f409c5d09b4
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:56:14 2011 +0800
+
+    MERGE BRANCHES ATTEMPT
+
+commit a681da1e72004a8da55e8f4645ddd2cc410c491f
+Merge: c276806 5fb66f0
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:51:28 2011 +0800
+
+    conflict
+
+commit 2ec2dc7fd3463281613e3d96a289e349bc7a82cd
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:51:02 2011 +0800
+
+    CLEANED
+
+commit 739ce64387d0ba591f3d6ea96082c388fdae3162
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:47:53 2011 +0800
+
+    CLEANED
+
+commit 5fb66f0c20c5d6e484e654e87c24e12fa00e903a
+Merge: 5dc9656 052a903
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:42:42 2011 +0800
+
+    After error in merge
+
+commit 5dc965671db243eedf803ba9837959012ee8b5f6
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:38:53 2011 +0800
+
+    hey new branch
+
+commit c2768068acee0bb30fcc99d338688f1e361f684f
+Merge: 774f45a 052a903
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:35:30 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 774f45ac0ba330def982efe5db4e08be293f9eb7
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:35:01 2011 +0800
+
+    added line
+
+commit 052a903f4a295774e8d8441f03782101fda5c23e
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Tue Apr 26 11:34:01 2011 +0800
+
+    PURGE
+
+commit 106a747424d6de001d83281fef7d4420e8be4b93
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Tue Apr 26 11:27:12 2011 +0800
+
+    added File from another branch... and edited README
+
+commit 72253aed173e67ea9901ac1216ffb723a7dc9a58
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Tue Apr 26 11:26:34 2011 +0800
+
+    added text on file, Testing New Branch
+
+commit 9e4a475bb8bb16cc66ce9d082cdba4af6304431b
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Tue Apr 26 11:26:05 2011 +0800
+
+    added another file
+
+commit 9c1f75bc5184fa5745c6707b181b9b59dbfba8a5
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Tue Apr 26 11:20:32 2011 +0800
+
+    added new file "testing new branch"
+
+commit c7008715dcd72f3068cca8be82ea559be75c3970
+Merge: 971be23 4fcea4b
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Tue Apr 26 11:19:39 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+    
+    Conflicts:
+    	README
+
+commit 971be2310d909defb14de99a027620af4a2bf1a8
+Merge: 3f298cb b379071
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Tue Apr 26 11:16:49 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+    
+    Conflicts:
+    	README
+
+commit 4fcea4bd1436cc35693e1fa0fa9213de366aa5c5
+Merge: 75ea24f b379071
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Tue Apr 26 11:16:30 2011 +0800
+
+    Trying
+
+commit 3f298cba29ca1644d4d4d9c882990b34950abff1
+Merge: cec53d1 d774a1b
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Tue Apr 26 11:14:42 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+    
+    Conflicts:
+    	README
+
+commit 75ea24fd85e9c4de696e4a67a03a8967de214668
+Merge: 5c819ee e219e9e
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Tue Apr 26 11:13:57 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit b3790715e9e4b66aebc87eb53d2753a5f85e3368
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:13:43 2011 +0800
+
+    cleaned up
+
+commit 5c819ee4cbf2a27be5b3c04c966d8866e9b75bcd
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Tue Apr 26 11:13:30 2011 +0800
+
+    Trying to cause a conflict
+
+commit e219e9e9fe8506cb7ee85f39847e6bd99c7ddd79
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:12:54 2011 +0800
+
+    removed stuff
+
+commit 74dadd3142d7cd046a63e4230d363e1441993d74
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:12:00 2011 +0800
+
+    removed stuff
+
+commit 3130543fbc43c907cfbf25e5c634f80cdc441181
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:11:07 2011 +0800
+
+    removed stuff
+
+commit a4c4e4e177d845f4e992062dfdd9249ee0469c2a
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Tue Apr 26 11:10:24 2011 +0800
+
+    removed pics
+
+commit de7081a6b1d6d92c59b4a4a82f8b063bbe2e363a
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Tue Apr 26 09:38:25 2011 +0800
+
+    YOU ACCUSE ME OF PUSHING CRAP HUH?
+
+commit 7f681f362cdea2639b9286d600c86bbd2a8c49e3
+Merge: 95ad07b 0e7d43b
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Mon Apr 25 17:19:42 2011 +0800
+
+    Merge remote branch 'origin'
+
+commit 95ad07b404d2c8ed5c1501cc12f9fe8c9056a7f1
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Mon Apr 25 17:13:44 2011 +0800
+
+    THIS IS A MESSSAGE
+
+commit 1ed13b9ece73ab73bc3636342df09cd85cc92568
+Author: Jehson Samante <jehson.samante@orangeandbronze.com>
+Date:   Mon Apr 25 17:02:10 2011 +0800
+
+    TEXT TEXT
+
+commit 0e7d43b710800a1a61e2102f25585ebd5d210146
+Merge: 04770e9 1a0dadc
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:47:33 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 04770e9d180d1f05c479ddac7c3fe88297ac7748
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:47:11 2011 +0800
+
+    Pokemon comics 3!
+
+commit 1a0dadccc777bd074404bbca172bc9abb59f93dd
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:38:52 2011 +0800
+
+    version 111111
+
+commit e1f8bada5682b1329e09be9cb5aee07bfe6cef7f
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:38:11 2011 +0800
+
+    hahaha
+
+commit ed205e7e89dc2839e331afce32e669ad05d2ed31
+Merge: 269ca6a 5c8b04f
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:35:51 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 269ca6ab88df9649995bba21cfb84d6d5e2d5a8c
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:35:28 2011 +0800
+
+    this is porn
+
+commit 5c8b04f418d67b8b69e4efc71dc2b2f130252881
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:34:54 2011 +0800
+
+    kenji was here
+
+commit bd3052bc9a9ba28f514bd528c204813c1c46a1ad
+Merge: ee9e134 8fd8c63
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:32:41 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit ee9e134822f71d74cd8d5c7391f13cd63fcfd765
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:32:24 2011 +0800
+
+    Comics number 2!!! :D
+
+commit 8fd8c63b658423d7c4ac968ae7c971296fd1a817
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:32:11 2011 +0800
+
+    STOP PUSHING CRAP KENJI
+
+commit aab6f4b6bf7d1686eeea096f7db61730135aec8f
+Merge: 251c4fe e48e896
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:31:32 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit e48e8961750ddb49d27c743d9af2a4ded5e5ac7b
+Merge: 15e96a1 704cb8b
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:31:20 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 251c4fed4894c0fa6efafeb77c465b2a7068afb8
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:31:05 2011 +0800
+
+    hahahaha
+
+commit 15e96a194bc819237054b159c4699e5c3d141dc3
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:30:55 2011 +0800
+
+    STOP PUSHING CRAP KENJI
+
+commit 704cb8ba156eb9ab5ed3a3b8fe888b6282e8af81
+Merge: ba3160d f7a80a0
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:30:55 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit ba3160d67d04757555c349700b90087d0d303d16
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:30:34 2011 +0800
+
+    kenji was here
+
+commit f7a80a09e823da46e5016b7711f5eddd7dd57d1d
+Merge: 2a9a4d3 1df3a8a
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:29:51 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 2a9a4d3abb8d832e8072f432aa65f240e033d94f
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:28:46 2011 +0800
+
+    stop pushing crap kenji
+
+commit 1df3a8a7c12ad5ac0ba06078e6cca560a73d7aa1
+Merge: 57dc72c 5259a78
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:27:56 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 57dc72c28b8d0ff1b0c1b1f521e1e092a63a159e
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:27:27 2011 +0800
+
+    Nooooo
+
+commit 5259a7846a1e97536efce5a17a43966dea91a192
+Merge: 3684b8e b349d01
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:26:47 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit b349d01e3684b0f17cba60f372c54ab7f5f680c2
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:26:23 2011 +0800
+
+    kenji was here
+
+commit 3684b8e14523e4eb411bf9ae54d0cbba2edd4256
+Merge: 6d9453d 7472166
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:26:15 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 0b76140432413766ba5d6c819b706efeca68bbd5
+Merge: 27f12b6 7472166
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:26:02 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 747216692e6cb8d01dabe0f67803717e15b99545
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:25:35 2011 +0800
+
+    kenji was here
+
+commit 9ce05c95da0099baa74b741eebba4047342a98cb
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:25:01 2011 +0800
+
+    kenji was here
+
+commit 6d9453d2965b5c689e944494cc5b68c2f3a98726
+Merge: 021c6a6 d774a1b
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:24:45 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit a3db532c765d219f5cc14a9cf13531f145beb258
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:24:40 2011 +0800
+
+    kenji was here
+
+commit 021c6a65d8625496c957da3fcb820010681fe6de
+Author: Breisa Moralde <breisa.moralde@orangeandbronze.com>
+Date:   Mon Apr 25 16:24:12 2011 +0800
+
+    haha
+
+commit d774a1b409fc125c5ce2d279a847e8ec1559a21b
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:23:13 2011 +0800
+
+    kenji was here
+
+commit 27f12b649d97b95c23a84a34a5561489f0d9aa3a
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:22:39 2011 +0800
+
+    Pokemon comics number 1!
+
+commit 3073602582b04aa327a5460a4b497139889a8009
+Merge: bf1ce4c e83263b
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:20:37 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 4830dcfd735dc7c666de951a7a6bf78b890930c4
+Merge: 27844f2 35b72e4
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:20:25 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 27844f211a156afb2ee752484a1df1d84fd0f003
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:19:34 2011 +0800
+
+    kenji was here
+
+commit 35b72e43e8b0779e0e5922d17087ebb2f3e11e32
+Merge: 36cca66 e83263b
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Mon Apr 25 16:19:21 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit cec53d16384077d545ef414e12b2a4ffe5a5d260
+Merge: 4d162b1 e83263b
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Mon Apr 25 16:19:14 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit 36cca666a7ab5c6f36d42fbcd1267e81d297bc0e
+Merge: 3831187 2a014e6
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Mon Apr 25 16:16:47 2011 +0800
+
+    Lightning
+
+commit e83263b4760077f0f061969ad6433c55ad188876
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:16:08 2011 +0800
+
+    kenji was here
+
+commit 4d162b18ed997bb102ccac564810f1c12b032f7e
+Merge: d0064f3 2a014e6
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Mon Apr 25 16:13:49 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+    
+    Conflicts:
+    	README
+
+commit bf1ce4c742bef9ea2e8a9eaaa7be4688813d4287
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 16:11:57 2011 +0800
+
+    This is a sample folder with sample working fiiiles :D
+
+commit 38311877a7fb26c5c3f8ccb911a9b25c02e2818a
+Merge: 9d819e7 01693bf
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Mon Apr 25 16:11:49 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+    
+    Conflicts:
+    	README
+
+commit 2a014e6f6e6b13fddb0746f3cf00170334d7a896
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:10:29 2011 +0800
+
+    kenji was here
+
+commit d0064f32b128324af4a5902890130a6978890ba6
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Mon Apr 25 16:10:00 2011 +0800
+
+    HIIII
+
+commit 9d819e77217bb344c56bcf4bdc1aa217bd9baf6f
+Merge: 4ebec19 d1dcefb
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Mon Apr 25 16:09:40 2011 +0800
+
+    Lightning Revenant
+
+commit 01693bf710cddbeb91740da3cb0f28f615278ed1
+Merge: e1a94d7 6be997e
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:07:23 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit e1a94d7690fac00a40614c51bc830d70f5254e0f
+Author: fyeahkenji <aldrin.lozano@orangeandbronze.com>
+Date:   Mon Apr 25 16:06:25 2011 +0800
+
+    kenji was here
+
+commit 6be997e1280b4a74606c619e637f9d322e761223
+Merge: e1b75c9 af78393
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 16:05:18 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit af783932b27ffa265babcd0c0ae7268c07d6369d
+Author: Fayanne King <fayanne.king@orangeandbronze.com>
+Date:   Mon Apr 25 16:04:38 2011 +0800
+
+    Fayanne Edit
+
+commit a8e606033f3c92c24ee6423e82c2a8de961b1f9b
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 15:56:08 2011 +0800
+
+    Laaaaa
+
+commit 8edfc2e929da7a5bff0187a89667dabce6818e7d
+Merge: fae1e2e d1dcefb
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 15:55:26 2011 +0800
+
+    Merge branch 'master' of github.com:onb-sysads/OnB-Interns-2011
+
+commit e1b75c9acb167dd84c3eed4f51f5e7981978ae05
+Author: Mon <monina.carandang@orangeandbronze.com>
+Date:   Mon Apr 25 15:53:47 2011 +0800
+
+    sample push
+
+commit fae1e2e1365a0daabc7918c7ccfa8eee51bdfc2b
+Author: Javelin Magtalas <javeln@it-laptop.(none)>
+Date:   Mon Apr 25 15:53:18 2011 +0800
+
+    Added today hoho~
+
+commit d1dcefb87b98669b3b70915a2c72991f3bfbbb79
+Author: Jehson Kin Samante <jehson.samante@orangeandbronze.com>
+Date:   Mon Apr 25 00:44:49 2011 -0700
+
+    Edited README via GitHub
+
+commit 4ebec1990b5cd1ff9f8afe2adcfb3b6bd177c364
+Author: Leandro Isla <leandro.isla@orangeandbronze.com>
+Date:   Mon Apr 25 15:42:05 2011 +0800
+
+    Drox's Commit
+
+commit a9c67aafe810a8a44516bf043887a35505f724a3
+Author: Armando Zabala III <armand.zabala@orangeandbronze.com>
+Date:   Mon Apr 25 15:31:43 2011 +0800
+
+    initialized repo with README
