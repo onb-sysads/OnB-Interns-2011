@@ -1,9 +1,7 @@
 <<<<<<< HEAD
-People, i added a new branch.
-It can be viewed somewhere on top...
-but wait.. i pulled origin but then
-Automatic merge failed; fix conflicts and then commit the result
-SO this is what the README looks now ;p
+New branch 'exp2' added...
+Conflict resolved? in README...
+Now i'll try to merge exp2 branch and this master branch... ;)
 =======
 README
 >>>>>>> 052a903f4a295774e8d8441f03782101fda5c23e
