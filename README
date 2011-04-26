@@ -4,4 +4,9 @@ Conflict resolved? in README...
 Now i'll try to merge exp2 branch and this master branch... ;)
 =======
 README
+<<<<<<< HEAD
+
+New Line
+=======
 >>>>>>> 052a903f4a295774e8d8441f03782101fda5c23e
+>>>>>>> 5fb66f0c20c5d6e484e654e87c24e12fa00e903a
